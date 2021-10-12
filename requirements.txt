@@ -11,4 +11,4 @@ boto3 == 1.12.15
 imutils == 0.5.3
 
 # newapp.py: 8
-opencv_python == 4.1.2.30
+opencv_python == 4.2.0.32
